@@ -1,8 +1,8 @@
-## Portfolio
+## We are under construction....but
 
 ---
 
-### Category Name 1 
+### Here's My Story 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
