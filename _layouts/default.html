@@ -4,30 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-
-  <!-- Header Section -->
-  <header class="hero">
-    <img src="{{ '/images/hero-image.jpg' | relative_url }}" class="hero-image" alt="Hero Image">
-    <div class="hero-text">
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}</p>
+  <div class="container">
+    <!-- Fixed Left Section -->
+    <div class="left-fixed">
+      <div class="hero">
+        <img src="{{ site.hero_image }}" alt="Hero Image" class="hero-image">
+        <div class="hero-text">
+          <h1>Welcome to {{ site.title }}</h1>
+          <p>Working together for a sustainable future.</p>
+        </div>
+      </div>
     </div>
-  </header>
 
-  <!-- Main Content Section -->
-  <div class="content-wrapper">
-    <div class="text-content">
+    <!-- Scrollable Right Section -->
+    <div class="right-scrollable">
       {{ content }}
     </div>
   </div>
-
-  <!-- Footer Section -->
-  <footer>
-    <p>&copy; 2025 Eco Synergy Partners | <a href="{{ site.linkedin_profile }}">LinkedIn</a></p>
-  </footer>
-
 </body>
 </html>
