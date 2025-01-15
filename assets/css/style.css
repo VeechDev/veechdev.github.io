@@ -4,13 +4,14 @@ body {
   font-family: Arial, sans-serif;
   color: #333;
   line-height: 1.6;
+  overflow: hidden; /* Prevent the body from scrolling */
 }
 
 /* Container for Split Layout */
 .container {
   display: flex;
   height: 100vh; /* Full viewport height */
-  overflow: hidden;
+  overflow: hidden; /* Prevent the container from scrolling */
 }
 
 /* Left Fixed Section */
@@ -27,10 +28,9 @@ body {
   align-items: center;
   text-align: center;
   padding: 20px;
-  overflow: hidden; /* Disable scrolling in the static section */
-  pointer-events: none; /* Prevent the left section from capturing mouse events */
-  z-index: 1; /* Ensure it doesn't overlap unintended elements */
+  z-index: 1; /* Ensure it is layered above the right section */
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for clarity */
+  overflow: hidden; /* Prevent scrolling within the left-fixed section */
 }
 
 .hero-image {
@@ -43,13 +43,11 @@ body {
 .hero-text h1 {
   font-size: 2rem;
   margin-bottom: 10px;
-  pointer-events: auto; /* Allow interaction with the text inside the hero section */
 }
 
 .hero-text p {
   font-size: 1.2rem;
   line-height: 1.4;
-  pointer-events: auto; /* Allow interaction with the text inside the hero section */
 }
 
 /* Right Scrollable Section */
@@ -99,4 +97,3 @@ body {
     width: 100%;
   }
 }
-
