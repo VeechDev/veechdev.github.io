@@ -11,7 +11,7 @@ title: Home
 
 From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. 
 
-![Forest Image](images/IMG_4849.jpg)
+![Forest Image](images/IMG_6602.JPG)
 
 I have also always lived surrounded by water. I’ve lived along the banks of the Mississippi River, the shores of Jupiter, Florida, and now in Madison, Wisconsin, where Lake Mendota lies to the north and Lake Monona to the south.
 
