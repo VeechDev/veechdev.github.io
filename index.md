@@ -1,6 +1,6 @@
 # Eco Synergy Partners
 
-## We are under construction...
+## We are under construction...but
 
 ---
 
