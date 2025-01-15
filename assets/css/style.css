@@ -27,6 +27,8 @@ body {
   align-items: center;
   text-align: center;
   padding: 20px;
+  overflow: hidden; /* Disable scrolling in the static section */
+  pointer-events: none; /* Prevent the left section from capturing mouse events */
 }
 
 .hero-image {
@@ -39,11 +41,13 @@ body {
 .hero-text h1 {
   font-size: 2rem;
   margin-bottom: 10px;
+  pointer-events: auto; /* Allow interaction with the text inside the hero section */
 }
 
 .hero-text p {
   font-size: 1.2rem;
   line-height: 1.4;
+  pointer-events: auto; /* Allow interaction with the text inside the hero section */
 }
 
 /* Right Scrollable Section */
