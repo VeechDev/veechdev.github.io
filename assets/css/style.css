@@ -83,5 +83,19 @@ footer a {
   .images img {
     width: 100%;
   }
+  
 }
 
+/* Image Handling */
+.image {
+  max-width: 200px;  /* Adjust the size as needed */
+  float: left;       /* Makes the text wrap around the image */
+  margin-right: 15px; /* Space between the image and text */
+  margin-bottom: 10px; /* Space between the image and text below it */
+}
+
+.large-image {
+  max-width: 100%;  /* Full-width for larger images */
+  display: block;
+  margin: 0 auto;
+}
