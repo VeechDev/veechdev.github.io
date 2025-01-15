@@ -6,11 +6,11 @@
 
 ### My Story
 
-From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. Water has always been a constant in my life—I’ve lived along the banks of the Mississippi River, the shores of Jupiter, Florida (a city known for its scenic beaches and vibrant marine life), and now in Madison, Wisconsin, where Lake Mendota lies to the north and Lake Monona to the south. These two lakes are vital to the area’s ecology and recreation. As I reflect on my journey, I realize that this connection to nature has been more profound and enduring than I ever imagined.
+From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. In the same way water has always been a constant in my life—I’ve lived along the banks of the Mississippi River, the shores of Jupiter, Florida (a city known for its scenic beaches and vibrant marine life), and now in Madison, Wisconsin, where Lake Mendota lies to the north and Lake Monona to the south. These two lakes are vital to the area’s ecology and recreation. As I reflect on my journey, I realize that this connection to nature has been more profound and enduring than I ever imagined.
 
 <img src="images/glacierlake.jpg?raw=true" alt="Glacier Lake" width="40%" align="right" style="margin: 0 10px 10px 0;" />
 
-Over the years, I’ve embraced an entrepreneurial spirit and started several businesses. Yet, I’ve always felt a deep pull to do something more meaningful. I’ve been fortunate to travel to some of the most beautiful places in North America, from the majestic mountains of Glacier National Park in Montana to the thriving wildlife of the Ten Thousand Islands in Everglades National Park, and even to the fiery heart of Pele at Kīlauea Volcano in Hawai'i Volcanoes National Park.
+Over the years, I’ve embraced an entrepreneurial spirit and started several businesses. Yet, I’ve always felt a deep pull to do something more meaningful. I’ve been fortunate to travel to some of the most beautiful places in North America, from the expansive mountains of Glacier National Park in Montana to the thriving wildlife of the Ten Thousand Islands in Everglades National Park, and even to the fiery heart of Pele at Kīlauea Volcano in Hawai'i Volcanoes National Park.
 
 <img src="images/IMG_4849.JPG?raw=true" alt="Natural Scenery 1" width="40%" align="left" style="margin: 0 10px 10px 0;" />
 
