@@ -1,43 +1,52 @@
-# Eco Synergy Partners
-
-## We are under construction...
-
+---
+layout: default
+title: Welcome to Eco Synergy Partners
+description: "Mission Statement: Eco Synergy Partners is dedicated to reducing plastic and Styrofoam pollution by promoting sustainable alternatives, educating the public, and advocating for systemic change."
 ---
 
-### Here's My Story
+# Welcome to Eco Synergy Partners
 
-From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. Water has always been a constant in my life—I’ve lived along the banks of the Mississippi River, the shores of Jupiter, Florida (a city known for its scenic beaches and vibrant marine life), and now in Madison, Wisconsin, where Lake Mendota lies to the north and Lake Monona to the south. These two lakes are vital to the area’s ecology and recreation. As I reflect on my journey, I realize that this connection to nature has been more profound and enduring than I ever imagined.
+<div class="hero">
+  <img src="/images/hero.jpg" alt="Hero Image" class="hero-image">
+  <div class="hero-text">
+    <h1>Eco Synergy Partners</h1>
+    <p>Together, we can reduce plastic pollution and create a sustainable future.</p>
+  </div>
+</div>
 
-<img src="images/glacierlake.jpg?raw=true" alt="Glacier Lake" width="40%" align="right" style="margin: 0 10px 10px 0;" />
+## **My Story**
 
-Over the years, I’ve embraced an entrepreneurial spirit and started several businesses. Yet, I’ve always felt a deep pull to do something more meaningful. I’ve been fortunate to travel to some of the most beautiful places in North America, from the majestic mountains of Glacier National Park in Montana to the thriving wildlife of the Ten Thousand Islands in Everglades National Park, and even to the fiery heart of Pele at Kīlauea Volcano in Hawai'i Volcanoes National Park.
+<div class="content-wrapper">
+  <div class="text-content">
+    <p><strong>I am a tech head and an Entrepreneur.</strong></p>
+    <p><strong>Mission Statement:</strong> Eco Synergy Partners is dedicated to reducing plastic and Styrofoam pollution by promoting sustainable alternatives, educating the public, and advocating for systemic change.</p>
+    <p>We empower individuals, businesses, and governments to take meaningful steps toward a cleaner, more sustainable future.</p>
+    <p>We will engage communities through cleanups, events, and auctions that inspire action and raise funds. Offer Eco-friendly merchandise like reusable bottles and bags to reduce waste, fund programs, and promote sustainable living for a cleaner, greener future.</p>
+    <p>Even if you're not ready to contribute financially, I challenge you to take a moment to reflect on your habits. What small changes can you make to reduce your impact? Every little step counts. Together, we can make a lasting difference and create a cleaner, more sustainable future.</p>
+  </div>
 
-<img src="images/IMG_4849.JPG?raw=true" alt="Natural Scenery 1" width="40%" align="left" style="margin: 0 10px 10px 0;" />
+  <div class="images">
+    <img src="/images/IMG_4849.JPG" alt="Nature Image 1" class="image">
+    <img src="/images/IMG_6602.JPG" alt="Nature Image 2" class="image">
+  </div>
+</div>
 
-In each of these places, I’ve witnessed the changes caused by human impact. I’ve seen garbage left behind, and I’ve been stunned by the growing piles of plastic and Styrofoam on beaches and in natural areas worldwide. Each time I return to my corner of the woods in Wisconsin, I strive to make small changes in my family’s habits—replacing plastic Tupperware with glass, switching to compostable garbage bags, or eliminating single-use plastics. Yet, like many of us, I often find myself caught up in life’s demands, making it hard to stay consistent.
+## **The Problem with Plastic Pollution**
 
-<img src="images/IMG_6602.JPG?raw=true" alt="Natural Scenery 2" width="40%" align="right" style="margin: 0 10px 10px 0;" />
+<p>The plastic pollution crisis is devastating both wildlife and human health. Over 8 million tons of plastic enter our oceans each year, choking marine life and disrupting ecosystems. Sea turtles, whales, and seabirds often mistake plastic for food, leading to injury or death. On land, Styrofoam and plastic waste take centuries to decompose, leaching harmful chemicals into the soil and water.</p>
 
-Recycling is one habit my family has become pretty disciplined at, and I know many others in the U.S. have, too. But have you ever tried to figure out what’s actually recyclable and what isn’t? It’s a confusing maze of rules and misinformation that most people simply don’t have the time or resources to navigate. As I tried to make sense of it all, I couldn’t help but feel frustrated. The responsibility to make better choices always seems to fall on us as consumers—but shouldn’t businesses also share in this burden?
+<p>For humans, microplastics are now found in the air we breathe, the water we drink, and the food we eat, linked to serious health issues like hormone disruption, cancer, and developmental problems in children.</p>
 
-<img src="images/sunrise.jpg?raw=true" alt="Sunrise" width="40%" align="left" style="margin: 0 10px 10px 0;" />
+<p>I believe we can create real change, but it’s not something I can do alone. I’ve read, “If you want to go fast, go alone. If you want to go far, go together.” That’s why I’m asking for your help.</p>
 
-That’s when it dawned on me: if we really want to address the problem, we need to start at the source. What if businesses used better, more sustainable packaging in the first place? This idea, along with my growing frustration at the lack of accessible greener alternatives and my passion for protecting nature, inspired the creation of **Eco Synergy Partners**.
+<p>Please consider joining me on this journey. Even if you’re not ready to contribute financially, I challenge you to take a moment to reflect on your habits. What small changes can you make to reduce your impact? What sustainable choices can you embrace in your everyday life? Every little step counts. Together, we can make a lasting difference and create a cleaner, more sustainable future.</p>
 
-<img src="images/mountains.jpg?raw=true" alt="Mountains" width="40%" align="right" style="margin: 0 10px 10px 0;" />
+## **Get Involved**
 
-This nonprofit is focused on reducing plastic and Styrofoam pollution by working with businesses to switch to sustainable alternatives, educating the public, and advocating for meaningful, systemic change.
+<a href="https://www.linkedin.com/in/nick-veech-35870310/" class="cta">View My LinkedIn Profile</a>
 
----
+<footer>
+  <p>&copy; 2025 Eco Synergy Partners. All rights reserved.</p>
+  <p><a href="https://linkedin.com/in/nick-veech-35870310/">LinkedIn</a></p>
+</footer>
 
-### The Problem We’re Facing
-
-The plastic pollution crisis is devastating both wildlife and human health. Over 8 million tons of plastic enter our oceans each year, choking marine life and disrupting ecosystems. Sea turtles, whales, and seabirds often mistake plastic for food, leading to injury or death. On land, Styrofoam and plastic waste take centuries to decompose, leaching harmful chemicals into the soil and water. For humans, microplastics are now found in the air we breathe, the water we drink, and the food we eat, linked to serious health issues like hormone disruption, cancer, and developmental problems in children.
-
----
-
-### How You Can Help
-
-I believe we can create real change, but it’s not something I can do alone. I’ve read, “If you want to go fast, go alone. If you want to go far, go together.” That’s why I’m asking for your help.
-
-Please consider joining me on this journey. Even if you’re not ready to contribute financially, I challenge you to take a moment to reflect on your habits. What small changes can you make to reduce your impact? What sustainable choices can you embrace in your everyday life? Every little step counts. Together, we can make a lasting difference and create a cleaner, more sustainable future.
