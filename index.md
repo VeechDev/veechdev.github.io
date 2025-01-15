@@ -4,7 +4,7 @@
 
 ---
 
-### Here's My Story
+### My Story
 
 From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. Water has always been a constant in my life—I’ve lived along the banks of the Mississippi River, the shores of Jupiter, Florida (a city known for its scenic beaches and vibrant marine life), and now in Madison, Wisconsin, where Lake Mendota lies to the north and Lake Monona to the south. These two lakes are vital to the area’s ecology and recreation. As I reflect on my journey, I realize that this connection to nature has been more profound and enduring than I ever imagined.
 
@@ -24,8 +24,6 @@ Recycling is one habit my family has become pretty disciplined at, and I know ma
 
 That’s when it dawned on me: if we really want to address the problem, we need to start at the source. What if businesses used better, more sustainable packaging in the first place? This idea, along with my growing frustration at the lack of accessible greener alternatives and my passion for protecting nature, inspired the creation of **Eco Synergy Partners**.
 
-<img src="images/mountains.jpg?raw=true" alt="Mountains" width="40%" align="right" style="margin: 0 10px 10px 0;" />
-
 This nonprofit is focused on reducing plastic and Styrofoam pollution by working with businesses to switch to sustainable alternatives, educating the public, and advocating for meaningful, systemic change.
 
 ---
@@ -34,6 +32,7 @@ This nonprofit is focused on reducing plastic and Styrofoam pollution by working
 
 The plastic pollution crisis is devastating both wildlife and human health. Over 8 million tons of plastic enter our oceans each year, choking marine life and disrupting ecosystems. Sea turtles, whales, and seabirds often mistake plastic for food, leading to injury or death. On land, Styrofoam and plastic waste take centuries to decompose, leaching harmful chemicals into the soil and water. For humans, microplastics are now found in the air we breathe, the water we drink, and the food we eat, linked to serious health issues like hormone disruption, cancer, and developmental problems in children.
 
+<img src="images/plasticonbeach.jpg?raw=true" alt="plastics" width="70%" align="center" style="margin: 0 10px 10px 0;" />
 ---
 
 ### How You Can Help
