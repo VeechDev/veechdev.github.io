@@ -17,7 +17,7 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 # Reference your CSS file
 defaults:
   - scope:
-      path: ""
+      path: "/assets/css/style.css"
     values:
       layout: "default"
       css: "/assets/css/style.css"  # Add this line for CSS reference
