@@ -5,8 +5,6 @@ title: Home
 
 # Welcome to Eco Synergy Partners
 
-![Hero Image](images/NickHeadShot.jpg)
-
 ## My Story
 
 From a young age, I’ve always felt a deep connection to nature. Whether it was building forts and playing in the woods as a child or surfing and snorkeling in the ocean, this bond has shaped who I am. 
