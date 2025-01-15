@@ -1,12 +1,34 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+h1, h2 {
+  color: #4CAF50;
+}
+
+a {
+  color: #2196F3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 /* Hero Section */
 .hero {
   position: relative;
   text-align: center;
   color: white;
+  overflow: hidden;
 }
 .hero-image {
   width: 100%;
-  height: 50vh; /* Adjust the height to take up less space */
+  height: 60vh;
   object-fit: cover;
   opacity: 0.7;
 }
@@ -15,9 +37,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgba(0, 0, 0, 0.5); /* Dark background for readability */
-  padding: 20px;
-  border-radius: 10px;
+  font-size: 2rem;
 }
 
 /* Content Layout */
@@ -36,47 +56,17 @@
 }
 .images img {
   width: 100%;
-  max-width: 350px; /* Make images smaller */
   height: auto;
   margin-bottom: 15px;
   border-radius: 8px;
   object-fit: cover;
-}
-
-/* Text Wrapping Around Images */
-.image {
-  float: left;
-  margin-right: 20px;
-  margin-bottom: 15px;
-  max-width: 30%;
-}
-.text-content p {
-  text-align: justify;
+  max-width: 500px; /* Optional size for images */
 }
 
 /* Typography */
-h1, h2 {
-  color: #4CAF50;
-  font-weight: bold;
-}
 p {
   font-size: 1.2rem;
   line-height: 1.6;
-}
-
-/* Call-to-Action Button */
-.cta {
-  display: inline-block;
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  cursor: pointer;
-  border-radius: 5px;
-  text-decoration: none;
-}
-.cta:hover {
-  background-color: #45A049;
 }
 
 /* Footer */
@@ -86,17 +76,10 @@ footer {
   background-color: #333;
   color: white;
 }
-footer a {
-  color: #2196F3;
-}
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
   .content-wrapper {
     flex-direction: column;
   }
-  .images img {
-    width: 100%;
-  }
-  
 }
