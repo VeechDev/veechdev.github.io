@@ -10,7 +10,7 @@ From a young age, I’ve always felt a connection to nature. Whether it was buil
 
 <img src="images/glacierlake.jpg?raw=true" alt="Glacier Lake" width="40%" align="right" style="margin: 0 10px 10px 0;" />
 
-Over the years, I’ve embraced an entrepreneurial spirit and started several businesses. Yet, I’ve always felt a pull to do something more meaningful. I’ve been fortunate to travel to some of the most beautiful places in our country, from the expansive mountains of Glacier National Park in Montana to the thriving wildlife of the Ten Thousand Islands in Everglades National Park, and even to the fiery heart of Pele at Kīlauea Volcano in Hawai'i Volcanoes National Park.
+Over the years, I’ve embraced an entrepreneurial spirit and started several businesses. While I have been working in the world of IT for the last 10 years now, I’ve always felt a pull to do something more meaningful. I’ve been fortunate to travel to some of the most beautiful places in our country, from the expansive mountains of Glacier National Park in Montana to the thriving wildlife of the Ten Thousand Islands in Everglades National Park, and even to the fiery heart of Pele at Kīlauea Volcano in Hawai'i Volcanoes National Park.
 
 <img src="images/IMG_4849.JPG?raw=true" alt="Natural Scenery 1" width="40%" align="left" style="margin: 0 10px 10px 0;" />
 
