@@ -24,7 +24,7 @@ Recycling is one habit my family has become pretty disciplined at, and I know ma
 
 That’s when it dawned on me: if we really want to address the problem, we need to start at the source. What if businesses used better, more sustainable packaging in the first place? This idea, along with my growing frustration at the lack of accessible greener alternatives and my passion for protecting nature, inspired the creation of **Eco Synergy Partners**.
 
-This nonprofit is focused on reducing plastic and Styrofoam pollution by working with businesses to switch to sustainable alternatives, educating the public, and advocating for meaningful, systemic change.
+This **nonprofit** is focused on reducing plastic and Styrofoam pollution by working with businesses to switch to sustainable alternatives, educating the public, and advocating for meaningful, systemic change.
 
 ---
 
