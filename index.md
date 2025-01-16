@@ -33,6 +33,7 @@ This nonprofit is focused on reducing plastic and Styrofoam pollution by working
 It's a fact that the plastic pollution crisis is devastating both wildlife and human health. Over 8 million tons of plastic enter our oceans each year, choking marine life and disrupting ecosystems. Sea turtles, whales, and seabirds often mistake plastic for food, leading to injury or death. On land, Styrofoam and plastic waste take centuries to decompose, leaching harmful chemicals into the soil and water. For humans, microplastics are now found in the air we breathe, the water we drink, and the food we eat, linked to serious health issues like hormone disruption, cancer, and developmental problems in children.
 
 <img src="images/plasticonbeach.jpg?raw=true" alt="plastics" width="70%" align="center" style="margin: 0 10px 10px 0;" />
+
 ---
 
 ### How You Can Help
