@@ -1,5 +1,14 @@
 # Eco Synergy Partners
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QK9HEXL5JF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-QK9HEXL5JF');
+</script>
+
 ## We are under construction...
 
 ---
