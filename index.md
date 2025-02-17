@@ -27,11 +27,11 @@ In each of these places, I’ve witnessed the changes caused by human impact. I�
 
 <img src="images/IMG_6602.JPG?raw=true" alt="Natural Scenery 2" width="40%" align="right" style="margin: 0 10px 10px 0;" />
 
-Recycling is one habit my family has become pretty disciplined at, and I know many others in the U.S. have, too. But have you ever tried to figure out what’s actually recyclable and what isn’t? It’s a confusing maze of rules and misinformation that most people simply don’t have the time to navigate. As I recently tried to make sense of it all, I couldn’t help but feel frustrated. The responsibility to make better choices always seems to fall on us as consumers—but shouldn’t businesses also share in this burden?
+Recycling is one habit my family has become pretty disciplined at, and I know many others in the U.S. have, too. But have you ever tried to figure out what’s actually recyclable and what isn’t? It’s a confusing maze of rules and misinformation that most people simply don’t have the time to navigate. As I recently tried to make sense of it all, I couldn’t help but feel frustrated. The responsibility to make better choices definitely falls on us as consumers—but shouldn’t businesses also share in this burden?
 
 <img src="images/sunrise.jpg?raw=true" alt="Sunrise" width="40%" align="left" style="margin: 0 10px 10px 0;" />
 
-That’s when it dawned on me: if we really want to address the problem, we need to start at the source. What if businesses used better, more sustainable packaging in the first place? This idea, along with my growing frustration at the lack of accessible greener alternatives and my passion for protecting nature, inspired the creation of **Eco Synergy Partners**.
+That’s when it dawned on me: what if we could takle the problem from both ends? What if we not only help educate consumers and help put more eco friendly products in their hand and at that same time work with businesses to use better, more sustainable packaging? This idea, along with my growing frustration at the lack of accessible greener alternatives and my passion for protecting nature, inspired the creation of **Eco Synergy Partners**.
 
 This **nonprofit** is focused on reducing plastic and Styrofoam pollution by working with businesses to switch to sustainable alternatives, educating the public, and advocating for meaningful, systemic change.
 
