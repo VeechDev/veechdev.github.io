@@ -23,7 +23,7 @@ Over the years, I’ve embraced an entrepreneurial spirit and started several bu
 
 <img src="images/IMG_4849.JPG?raw=true" alt="Natural Scenery 1" width="40%" align="left" style="margin: 0 10px 10px 0;" />
 
-In each of these places, I’ve witnessed the changes caused by human impact. I’ve seen garbage left behind, and I’ve been stunned by the growing piles of plastic and Styrofoam on beaches and in natural areas worldwide. Each time I return to my corner of the woods in Wisconsin, I strive to make small changes in my family’s habits—replacing plastic Tupperware with glass, switching to compostable garbage bags, or eliminating single-use plastics. Yet, like many of us, I often find myself caught up in life’s demands, making it hard to stay consistent.
+In each of these places, I’ve witnessed the changes caused by human impact. I’ve seen garbage left behind, and I’ve been stunned by the growing piles of plastic and Styrofoam on beaches and in natural areas worldwide. Each time I return to my corner of the woods in Wisconsin, I strive to make small changes in my family’s habits—replacing plastic Tupperware with glass, switching to compostable garbage bags, or eliminating single-use plastics. 
 
 <img src="images/IMG_6602.JPG?raw=true" alt="Natural Scenery 2" width="40%" align="right" style="margin: 0 10px 10px 0;" />
 
